@@ -12,7 +12,6 @@ Se Realiza Ejercicio segun lo solicitado en Spring boot y java 20 con bd Postgre
 
 - Se puede ejecutar make up, si se tene instalado make en el equipo
 - Se puede ejecutar docker compose up -d --build para compilar y cargar el proyecto el build mientras descarga todo son como 120 segundos
-- Para ejecutar en local cambiar el archivo properties en donde dice database a localhost
 
 ## Url de swagger:
 Para validar la documentacion del proyecto con swagger se debe ingresar  a la url
